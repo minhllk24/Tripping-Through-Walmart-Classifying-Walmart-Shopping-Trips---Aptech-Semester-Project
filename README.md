@@ -4,8 +4,8 @@ Kaggle Competion.
 * Test on more model and Run with PySpark on Google Collab
 
 
-*This is a schoolwork project at the end of semester.
+* This is a schoolwork project at the end of semester.
 
 
-*Reference:
+* Reference:
 https://github.com/anshikanigam14/walmart-trip-type-classification/blob/main/walmart-trip-type-classification.ipynb
