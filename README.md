@@ -1,4 +1,4 @@
-# Tripping-Through-Walmart-Classifying-Walmart-Shopping-Trips---Aptech-Semester-Project
+# Tripping-Through-Walmart-Classifying-Walmart-Shopping-Trips-Aptech-Semester-Project
 Kaggle Competion, Run with PySpark on Google Collab
 
 This is a schoolwork project at the end of semester.
